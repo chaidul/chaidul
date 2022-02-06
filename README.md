@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/chaidul_hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chaidul_hussain" height="30" width="40" /></a>
-<a href="https://twitter.com/hussain-chaidul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hussain-chaidul" height="30" width="40" /></a>
+<a href="https://twitter.com/hussain_chaidul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hussain-chaidul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chaidul-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaidul-hussain" height="30" width="40" /></a>
 <a href="https://fb.com/webdevelopmentassam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="webdevelopmentassam" height="30" width="40" /></a>
 <a href="https://instagram.com/_raju_ahmed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_raju_ahmed_" height="30" width="40" /></a>
