@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://chaidul.github.io/personal-project/images/curve.jpg)
+<h1 align="center">Hi there👋</h1>
+
 
 <!--
 **chaidul/chaidul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
