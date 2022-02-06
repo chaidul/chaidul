@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaidul&label=Profile%20views&color=0e75b6&style=flat" alt="chaidul" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hussain-chaidul" target="blank"><img src="https://img.shields.io/twitter/follow/hussain-chaidul?logo=twitter&style=for-the-badge" alt="hussain-chaidul" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hussain_chaidul" target="blank"><img src="https://img.shields.io/twitter/follow/hussain_chaidul?logo=twitter&style=for-the-badge" alt="hussain_chaidul" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
