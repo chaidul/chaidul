@@ -1,6 +1,6 @@
 ![](https://chaidul.github.io/personal-project/images/curve.jpg)
 <h1 align="center">Hi there👋iam Chaidul</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaidul&label=Profile%20views&color=0e75b6&style=flat" alt="chaidul" /> </p>
 
