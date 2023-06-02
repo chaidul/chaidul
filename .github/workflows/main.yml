@@ -10,7 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Run a one-line script
-        run: php index.php
-      - name: modify script
+      - name: create file
         run: touch test.txt
+      - name: modify script
+        run: git add test.txt
+      - name: modify script
+        run: git commit -m "add test file"
