@@ -1,4 +1,4 @@
 <?php
-echo "hello world! index page";
+echo "hello world! index page ";
 
 ?>
