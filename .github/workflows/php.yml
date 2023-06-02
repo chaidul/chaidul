@@ -6,5 +6,5 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: run index file
-    run: echo 123;
+      run: echo 123;
 
