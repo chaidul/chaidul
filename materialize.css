@@ -3068,8 +3068,8 @@ td, th {
 
 .collection .collection-item.avatar .circle {
   position: absolute;
-  width: 42px;
-  height: 42px;
+  width: 80px;
+  height: 100px;
   overflow: hidden;
   left: 15px;
   display: inline-block;
